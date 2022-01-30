@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming
 I'm also studying for my bachelor degree in computer science 
 - 💞️ I’m looking to collaborate on maybe some project in the future
-- 📫 How to reach me in my email moh300moh43@gmail.com
+- 📫 How to reach me in my email mohammdealialherz@gmail.com
 
 <!---
 FzHFz/FzHFz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
