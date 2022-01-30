@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FzHFz
+- 👋 Hi, I’m @Mohammed alherz
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning programming
 I'm also studying for my bachelor degree in computer science 
