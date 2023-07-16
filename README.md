@@ -27,9 +27,8 @@ I am an app Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://logo-download.com/wp-content/data/images/png/Kotlin-logo.png" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" title="Android" alt="Android Studio" width="40" height="40"/>&nbsp;
-
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"  title="php" alt="php" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"  title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
@@ -37,10 +36,7 @@ I am an app Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-
-
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
