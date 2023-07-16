@@ -1,4 +1,3 @@
-![image](https://github.com/FzHFz/FzHFz/assets/88466355/655301f7-eda0-4ae2-93b1-7905b07c2b75)
 
 <p align="center">
 
