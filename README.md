@@ -1,7 +1,7 @@
 ![image](https://github.com/FzHFz/FzHFz/assets/88466355/655301f7-eda0-4ae2-93b1-7905b07c2b75)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
 <a href="https://www.linkedin.com/in/mohammed-ali-alherz-2909251a3/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
@@ -39,7 +39,7 @@ I am an app Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
 ---
