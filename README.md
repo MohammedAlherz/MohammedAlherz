@@ -47,6 +47,6 @@ I am an app Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohammedAlherz&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAlherz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammedAlherz&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=vision-friendly-dark" alt="hadysata" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammedAlherz&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=vision-friendly-dark" alt="MohammedAlherz" /></p>
 ---
 
